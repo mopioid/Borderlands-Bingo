@@ -17,3 +17,7 @@ With a board & room created, a game of BINGO can be played however you'd like. T
 - Krieg: [`SaveB006.sav`](https://github.com/mopioid/Borderlands-Bingo/raw/refs/heads/main/Saves/SaveB006.sav)
 
 These characters have minimal viable gear, and start at the Liarsburg Fast Travel station, at the beginning of the Best Minion Ever mission.
+
+---
+
+Thanks to TheWijiFiji for creating the initial boards!
